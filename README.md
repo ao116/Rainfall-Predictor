@@ -13,7 +13,6 @@ This project aims to predict rainfall using a 10-year historical weather dataset
 - [Model Evaluation](#model-evaluation)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Project Overview
 
@@ -87,21 +86,6 @@ The project uses various performance metrics to evaluate the models:
 - **Matplotlib & Seaborn**: Data visualization
 - **Scikit-Learn**: Machine learning models and evaluation metrics
 
-
-## Usage
-
-1. Run data preprocessing:
-    ```python
-    python data_preprocessing.py
-    ```
-2. Train models:
-    ```python
-    python model_training.py
-    ```
-3. Evaluate results:
-    ```python
-    python model_evaluation.py
-    ```
 
 ## Contributing
 
